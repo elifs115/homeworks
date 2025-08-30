@@ -20,7 +20,7 @@ class Person {
             return this.#age = value
         }
         else {
-            controle.log("Geçerli bir yaş giriniz!");
+            console.log("Geçerli bir yaş giriniz!");
         }
     }
     introduce() {
@@ -77,3 +77,6 @@ console.log(Student.count());
 
 console.log(Instructor.count());
 // 1
+
+p1.age = 145;
+console.log(p1.age);
