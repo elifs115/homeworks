@@ -1,2 +1,0 @@
-export const todos = [{ id: 1, title: "Alışveriş", description: "Market alışverişi", completed: false, userId: 1 }];
-// { id: 1, title: "Sample Todo", description: "This is a sample todo item.", completed: false, userId: 1 }
