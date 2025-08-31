@@ -1,0 +1,25 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "Node.js ve Express ile örnek proje",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "homework"
+  ],
+  "author": "elifs115",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+              
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
